@@ -1,0 +1,33 @@
+c:\users\sherlock\documents\visual studio 2012\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\bin\Debug\ReadLifes_LibraryManagement.exe.config
+c:\users\sherlock\documents\visual studio 2012\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\bin\Debug\ReadLifes_LibraryManagement.exe
+c:\users\sherlock\documents\visual studio 2012\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\bin\Debug\ReadLifes_LibraryManagement.pdb
+c:\users\sherlock\documents\visual studio 2012\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.Properties.Resources.resources
+c:\users\sherlock\documents\visual studio 2012\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.csproj.GenerateResource.Cache
+c:\users\sherlock\documents\visual studio 2012\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.exe
+c:\users\sherlock\documents\visual studio 2012\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.pdb
+c:\users\sherlock\documents\visual studio 2012\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.MainForm.resources
+c:\users\sherlock\documents\visual studio 2012\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.DashboardForm.resources
+C:\Users\SHERLOCK\Documents\Visual Studio 2012\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\SHERLOCK\Documents\Visual Studio 2012\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.MemberMgmt_Form.resources
+C:\Users\SHERLOCK\Documents\Visual Studio 2012\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.BookRent_Form.resources
+C:\Users\SHERLOCK\Documents\Visual Studio 2012\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.BookMgmt.resources
+C:\Users\SHERLOCK\Documents\Visual Studio 2012\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.Suppliermgmt_form.resources
+C:\Users\SHERLOCK\Documents\Visual Studio 2012\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\SHERLOCK\Documents\Visual Studio 2012\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\bin\Debug\ReadLifes_SystemDB.sdf
+C:\Users\SHERLOCK\Documents\Visual Studio 2012\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.csprojResolveAssemblyReference.cache
+D:\hacking books beginners\C# prac\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\bin\Debug\ReadLifes_LibraryManagement.exe.config
+D:\hacking books beginners\C# prac\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.exe
+D:\hacking books beginners\C# prac\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.pdb
+D:\hacking books beginners\C# prac\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\bin\Debug\ReadLifes_SystemDB.sdf
+D:\hacking books beginners\C# prac\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\bin\Debug\ReadLifes_LibraryManagement.exe
+D:\hacking books beginners\C# prac\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\bin\Debug\ReadLifes_LibraryManagement.pdb
+D:\hacking books beginners\C# prac\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\bin\Debug\System.Data.SqlServerCe.dll
+D:\hacking books beginners\C# prac\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.csprojResolveAssemblyReference.cache
+D:\hacking books beginners\C# prac\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.BookMgmt.resources
+D:\hacking books beginners\C# prac\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.BookRent_Form.resources
+D:\hacking books beginners\C# prac\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.DashboardForm.resources
+D:\hacking books beginners\C# prac\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.MainForm.resources
+D:\hacking books beginners\C# prac\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.MemberMgmt_Form.resources
+D:\hacking books beginners\C# prac\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.Properties.Resources.resources
+D:\hacking books beginners\C# prac\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.Suppliermgmt_form.resources
+D:\hacking books beginners\C# prac\Projects\ReadLifes_LibraryManagement\ReadLifes_LibraryManagement\obj\Debug\ReadLifes_LibraryManagement.csproj.GenerateResource.Cache
